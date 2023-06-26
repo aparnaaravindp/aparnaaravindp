@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aparnaaravindp](https://github.com/aparnaaravindp)
 
-- 💬 Ask me about **React, JavaScript, TypeScript**
+- 💬 Ask me about **React, JavaScript, TypeScript, Node.js, Python**
 
 - 📫 How to reach me **aparnaaravindp@gmail.com**
 
